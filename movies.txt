@@ -1,0 +1,60 @@
+
+<html>
+<head>
+  <link rel="stylesheet"  href="../stylesheet.css">
+  
+
+</head>
+<body>
+<h1 align="center" style="font-size: 80px;">Movies</h1>
+
+<p style="color: darkblue;font-size: 60px;"> GODFATHER</p>
+
+<ul>
+<p style="text-align:center;">Genre: Crime | Drama</p>
+<p style="text-align:center;">Release date: March 15, 1972</p>
+<p style="text-align:center;">Stars: Marlon, Brando Al Pacino, James Caan</p>
+<li>Description: 
+   The Godfather is widely regarded as one of the greatest films in world cinema and one of the most influential, especially in the gangster genre. It was selected for preservation in the U.S. National Film Registry of the Library of Congress in 1990, being deemed "culturally, historically, or aesthetically significant" and is ranked the second-greatest film in American cinema (behind Citizen Kane) by the American Film Institute. It was followed by sequels The Godfather Part II (1974) and The Godfather Part III (1990).</li>
+</ul>
+<a href="http://www.imdb.com/title/tt0068646/?ref_=fn_al_tt_1"><img align="middle" src="../images/Godfather.jpg"></a>
+<p style="color: darkblue;font-size: 60px;">WONDER</p>
+
+<ul>
+<p style="text-align:center;">Genre: Music comedy | Drama </p>
+<p style="text-align:center;">Release date: November 17, 2017 </p>
+<p style="text-align:center;">Stars:  VJacob Tremblay
+Mandy Patinkin
+Daveed Diggs </p>
+
+
+<li>Description: 
+Wonder is a 2017 American comedy-drama film directed by Stephen Chbosky and written by Steve Conrad, based on the 2012 novel of the same name by R.J. Palacio. The film stars Julia Roberts, Owen Wilson, and Jacob Tremblay, and follows an elementary schooler with Treacher Collins syndrome trying to fit in. Wonder was released in the United States on November 17, 2017, by Lionsgate.</li>
+</ul>
+<a href="http://www.imdb.com/title/tt2543472/?ref_=nv_sr_2"><img align="middle" src="../images/Wonder.png" ></a>
+<p style="color: darkblue;font-size: 60px;">EDGE OF TOMORROW</p>
+
+<ul>
+<p style="text-align:center;">Genre:  Action | Adventure | Sci-Fi  </p>
+<p style="text-align:center;">Release date: 5 Juni 2014</p>
+<p style="text-align:center;">Stars: Tom Cruise, Emily Blunt, Bill Paxton</p>
+<li>Description:
+Edge of Tomorrow is described by the director himself as "Groundhog Day meets Starship Troopers". The former mentioned is actually quite important since the trailers made this film look pretty dark, which is not the case. This is fun action film with lots of humor. Humor that perfectly fits this film. The time-loop allows the Cruise's Colonel Cage to remember exactly the situation he repeats over and over, which is many times very funny. At films with time-loop I am alway worried that the film might get repetitive. Well you don't have to when Doug Liman is at helm. The film has no time to get repetitive when it is moving at such fast pace. An action scene follows an actions and the scope is just mind blowing. This film packs in so much in just two hours. Other films usually keep the best scenes for the big finale. In Edge of Tomorrow all the action scenes are the best scenes of the film.</li>
+</ul>
+<a href="http://www.imdb.com/title/tt1631867/?ref_=nv_sr_2"><img align="center" src="../images/edge.jpg"></a>
+
+<p style="color: darkblue;font-size: 60px;">HOSTILES</p>
+
+<ul>
+<p style="text-align:center;">Genre:  Crime | Thriller</p>
+<p style="text-align:center;">Release date: December 22, 2017</p>
+<p style="text-align:center;">Stars: Christian Bale
+Rosamund Pike
+Wes Studi</p>
+<li>Description: Hostiles is a 2017 American period western film written and directed by Scott Cooper, based on an original story by Donald E. Stewart. It stars Christian Bale, Rosamund Pike, Wes Studi, Jesse Plemons, Adam Beach, Rory Cochrane and Ben Foster, and follows a U.S. Cavalry officer who must escort a Cheyenne war chief and his family back to their home in Montana in 1892.
+The music, fun, simply fun. Songs from every decade of my lifetime.</li>
+</ul>
+<a href="http://www.imdb.com/title/tt5478478/?ref_=fn_al_tt_1"><img src="../images/Hostiles.jpg"></a>
+<a href="../index.html"><p align="center" style="color: red;background-color: grey;padding: 7px;"> Home</p></a>
+</body>
+</html>
